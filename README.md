@@ -1,7 +1,8 @@
 # ERP Expertise - Django & Odoo Roadmap
 
-This repository tracks my journey to build end‑to‑end ERP (Odoo) expertise – from business processes and solution design to hands‑on development with Python, Django, and Odoo
 -Raymond Tjiari
+This repository tracks my journey to build end‑to‑end ERP (Odoo) expertise – from business processes and solution design to hands‑on development with Python, Django, and Odoo
+
 
 ## Goals
 
