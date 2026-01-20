@@ -1,6 +1,6 @@
-# ERP Consultant – Django & Odoo Roadmap
+# ERP Expertise - Django & Odoo Roadmap
 
-This repository tracks my journey to become a competent ERP (Odoo) international consultant with solid technical skills in Python, Django, and Odoo development.
+This repository tracks my journey to build end‑to‑end ERP (Odoo) expertise – from business processes and solution design to hands‑on development with Python, Django, and Odoo
 
 ## Goals
 
