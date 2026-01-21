@@ -1,12 +1,6 @@
 Level 1 is all about getting comfortable with core **Python** so later Django/Odoo code feels easy to read and modify. Focus on writing and running small scripts every day, not just reading. 
 
-## What to do this week
-
-- Install Python 3, VS Code (or any editor), and learn how to run `python your_file.py` from terminal. 
-- Do at least 5–10 beginner exercises for variables, operators, and basic input/output (e.g. on PyNative or Pychallenger) each day
-- After exercises, code the Level 1 mini‑tasks from the roadmap (below) without copy–paste, only checking Google when stuck.
-
-## Level 1 tasks (you should code these)
+## Level 1 tasks 
 
 1. **Variables, types, operators**  
    - Temperature converter C ↔ F (input a number, output converted value).  
