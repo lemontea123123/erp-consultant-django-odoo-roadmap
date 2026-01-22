@@ -38,6 +38,7 @@ def input_nomor(dialog="Input Nomor Yang Benar:",choices = []):
             flag0 = len(choices) > 0
             flag1 = user_input in choices
             flag2 = flag0 and flag1
+            
 
             #if not in choices but choices length is 0
             flag3 = not(flag0) 
