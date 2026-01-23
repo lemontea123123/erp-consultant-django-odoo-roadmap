@@ -20,6 +20,5 @@ Level 1 is all about getting comfortable with core **Python** so later Django/Od
    - Menu‑based app in terminal:  
      - Add student (name, age, scores list).  
      - List all students.  
-     - Show top student by average score (highest average wins). 
-
- 
+     - Display student rankings from highest to lowest average score using a custom iterative merge sort implementation written from scratch for added algorithmic challenge
+     - Exit Program
