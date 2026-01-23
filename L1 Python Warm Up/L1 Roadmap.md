@@ -23,7 +23,4 @@ Level 1 is all about getting comfortable with core **Python** so later Django/Od
      - List all students.  
      - Show top student by average score (highest average wins). 
 
-## How you can use this Space
 
-- Work through Level 1 in order: variables → control flow → collections → CLI project.  
-- For each bullet above, send your code here; then it can be reviewed, improved, and extended step by step.  
