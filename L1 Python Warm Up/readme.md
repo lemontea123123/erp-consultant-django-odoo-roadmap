@@ -16,9 +16,10 @@ Level 1 is all about getting comfortable with core **Python** so later Django/Od
    - Grade calculator: list of scores → average → letter grade using a function.  
    - Contact book with `dict`: add, search, delete contacts by name.
 
-4. **Mini project – CLI Student Records**  
+4. **Mini project – CLI Student Records** 
+   - Opportunity to implement Iterative Merge Sort From Scratch  
    - Menu‑based app in terminal:  
      - Add student (name, age, scores list).  
-     - List all students.  
-     - Display student rankings from highest to lowest average score using a custom iterative merge sort implementation written from scratch for added algorithmic challenge
+     - List all students.  Sorted with my version of Iterative Merge Sort
+     - Display student rankings from highest to lowest average score . Sorted with my version of Iterative Merge Sort
      - Exit Program
